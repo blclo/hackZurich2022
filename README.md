@@ -1,6 +1,11 @@
 # hackZurich2022
 Final repo for Schindler workshop challenge.
 
+# Files in this repo
+
+This repo contains two files, one being the Android Studio project of the elevator, and the second one inlcuding all the servers, jsons, APIs and files needed to run the application.
+
+
 # Inspiration
 
 We saw it from the moment we arrrived to HackZurich 2022. Too much time was being wasted by finding specific rooms. WIth this in mind, we started thinking of a solution that not only could improve HackZurich 2023 but also be applied to many other use cases such as office buildings and hospitals.
