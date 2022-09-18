@@ -1,0 +1,20 @@
+{
+      "asyncId": "55f251ed70",
+      "options": {
+          "carSpace": "exclusive",
+          "cars": [
+              {
+                  "building": 1,
+                  "group": 1,
+                  "car": 3
+              }
+          ],
+          "destination": {
+              "destinationFloor": 0,
+              "destinationZone": "Floor 0"
+          }
+      },
+      "target": {
+          "floor": "3"
+      }
+  }

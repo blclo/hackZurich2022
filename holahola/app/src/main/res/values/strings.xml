@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Elevating</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="spinner">dropDownMenuExample</string>
+    <string-array name="spinner_lan">
+        <item>Google</item>
+        <item>Microsoft</item>
+        <item>Amazon</item>
+    </string-array>
+</resources>

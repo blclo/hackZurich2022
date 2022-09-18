@@ -1,0 +1,8 @@
+ {
+    "server": "nginx/1.18.0",
+    "date": "Fri, 16 Sep 2022 23:40:24 GMT",
+    "content-type": "application/octet-stream",
+    "connection": "upgrade",
+    "upgrade": "websocket",
+    "sec-websocket-accept": "WP4WHU/Ji8V0R+MEezfW81UE2hE="
+}
